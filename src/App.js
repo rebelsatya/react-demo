@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 5.0 hemanth
+          Learn React 5.0 Anandam Satya Sai hemanth
         </a>
       </header>
     </div>
