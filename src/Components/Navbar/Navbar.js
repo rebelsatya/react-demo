@@ -49,7 +49,7 @@ const Navbar = () => {
                     {!isMobile && (<><Button color="inherit" href="#home">
                           Home
                       </Button><Button color="inherit" href="#cofee">
-                              Coffee
+                              Coffee Cup
                           </Button></>)}
                 </Toolbar>
             </Container>
