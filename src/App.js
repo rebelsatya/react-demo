@@ -13,6 +13,7 @@ function App(){
     <>
     <Navbar/>
     <h1>hello sai</h1>
+    <p>hii</p>
     </>
   )
 }
