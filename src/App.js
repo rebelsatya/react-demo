@@ -14,7 +14,9 @@ function App(){
     <Navbar/>
     <h1>hello sai</h1>
     <p>hii</p>
-    <h1>satya sai hemanth</h1>
+   // <h1>satya hemanth</h1>
+    <h1>sai hemanth</h1>
+    
     </>
   )
 }
