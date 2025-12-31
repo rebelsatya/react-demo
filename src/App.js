@@ -16,7 +16,7 @@ function App(){
     <p>hii</p>
    // <h1>satya hemanth</h1>
     <h1>no commit sai hemanth </h1>
-    <p>sai check</p>
+    <p>hemanth pull check</p>
     
     </>
   )
