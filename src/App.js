@@ -17,7 +17,7 @@ function App(){
    // <h1>satya hemanth</h1>
     
     <p>hemanth pull check</p>
-    <p>p</p>
+    <p>approve satya</p>
     <p>si is pull changes</p>
     <p>satya pull mr raise</p>
     
