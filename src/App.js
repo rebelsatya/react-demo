@@ -19,7 +19,7 @@ function App(){
     <p>hemanth pull check</p>
     <p>p</p>
     <p>si is pull changes</p>
-    <p>satya pull mr raise</p>
+    <p>hemanth pull mr raise</p>
     
     </>
   )
